@@ -1,0 +1,56 @@
+[
+  {
+    "uuid": "test-001",
+    "title": "GitHub 账号",
+    "username": "developer@example.com",
+    "password": "MySecurePass123!",
+    "info": "个人开发账号，用于开源项目",
+    "created": "2024-01-15",
+    "modified": "2024-11-10"
+  },
+  {
+    "uuid": "test-002",
+    "title": "Google 邮箱",
+    "username": "user@gmail.com",
+    "password": "GooglePass456#",
+    "info": "主要邮箱账号",
+    "created": "2023-05-20",
+    "modified": "2024-08-15"
+  },
+  {
+    "uuid": "test-003",
+    "title": "AWS 控制台",
+    "username": "admin@company.com",
+    "password": "AWSSecure789$",
+    "info": "公司云服务账号，生产环境",
+    "created": "2024-03-10",
+    "modified": "2024-11-05"
+  },
+  {
+    "uuid": "test-004",
+    "title": "阿里云账号",
+    "username": "aliyun_user",
+    "password": "Aliyun2024@",
+    "info": "测试环境服务器",
+    "created": "2024-02-28",
+    "modified": "2024-10-20"
+  },
+  {
+    "uuid": "test-005",
+    "title": "数据库密码 asdf78",
+    "username": "dbadmin",
+    "password": "DB#Secret@2024",
+    "info": "MySQL 生产数据库管理员账号 77afda88",
+    "created": "2024-01-05",
+    "modified": "2024-11-01"
+  },
+  {
+    "uuid": "test-006",
+    "title": "测试账号 xyz",
+    "username": "test_af_user",
+    "password": "TestPass999",
+    "info": "测试用的临时账号 77asdf88",
+    "created": "2024-06-15",
+    "modified": "2024-10-30"
+  }
+]

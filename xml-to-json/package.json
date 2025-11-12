@@ -1,0 +1,18 @@
+{
+  "name": "password-box-utils",
+  "version": "1.0.0",
+  "description": "XML to JSON conversion utility",
+  "type": "module",
+  "scripts": {
+    "convert": "tsx util.ts"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/xml2js": "^0.4.14",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  }
+}
