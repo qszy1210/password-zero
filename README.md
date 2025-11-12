@@ -1,4 +1,4 @@
-# lock-box
+# lock-box(password-zero)
 simple lock box with a html page
 
 ## 完全离线
